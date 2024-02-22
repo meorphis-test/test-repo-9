@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.2 (2024-02-22)
+
+Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/meorphis-test/test-repo-9/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
+
+### Features
+
+* Update README.md ([692ff0e](https://github.com/meorphis-test/test-repo-9/commit/692ff0e76df947f48f6027b7a7090c351702b0b2))
+* update via SDK Studio ([#7](https://github.com/meorphis-test/test-repo-9/issues/7)) ([703aa94](https://github.com/meorphis-test/test-repo-9/commit/703aa948e363e6132c4256495d83e3fb99192bcb))
+
 ## 0.1.0-alpha.1 (2024-02-21)
 
 Full Changelog: [v0.0.1-alpha.0...v0.1.0-alpha.1](https://github.com/meorphis-test/test-repo-9/compare/v0.0.1-alpha.0...v0.1.0-alpha.1)
