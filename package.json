@@ -1,12 +1,12 @@
 {
-  "name": "meorphis-test-9-y581b6",
-  "version": "0.1.0-alpha.1",
-  "description": "The official TypeScript library for the Meorphis Test 9 Y581b6 API",
-  "author": "Meorphis Test 9 Y581b6 <greatsupport@meorphis.com>",
+  "name": "meorphis-test",
+  "version": "0.0.1",
+  "description": "The official TypeScript library for the Meorphis Test API",
+  "author": "Meorphis Test <support@acme.com>",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "type": "commonjs",
-  "repository": "github:meorphis-test/test-repo-9",
+  "repository": "github:stainless-sdks/meorphis-test-node",
   "license": "Apache-2.0",
   "packageManager": "yarn@1.22.21",
   "files": [
@@ -60,8 +60,8 @@
     "./shims/web.mjs"
   ],
   "imports": {
-    "meorphis-test-9-y581b6": ".",
-    "meorphis-test-9-y581b6/*": "./src/*"
+    "meorphis-test": ".",
+    "meorphis-test/*": "./src/*"
   },
   "exports": {
     "./_shims/auto/*": {
